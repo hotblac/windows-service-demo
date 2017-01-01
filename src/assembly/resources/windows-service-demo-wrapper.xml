@@ -1,0 +1,7 @@
+<service>
+    <id>windows-service-demo</id>
+    <name>Windows Service Demo</name>
+    <description>Demo Spring Boot Windows service</description>
+    <executable>java</executable>
+    <arguments>-jar windows-service-demo.jar</arguments>
+</service>
